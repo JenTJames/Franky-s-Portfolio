@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build:css": "postcss index.css -o output.css --watch" 
+    "build:css": "postcss index.css -o output.css --watch"
   },
   "author": "Franklin Jetty Johnson",
   "license": "ISC",
